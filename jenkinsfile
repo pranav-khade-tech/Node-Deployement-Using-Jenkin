@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         SERVER_IP      = '98.84.97.210'
-        SSH_CREDENTIAL = 'node-app-key'
+        SSH_CREDENTIAL = 'Node-App-Key'
         REPO_URL       = 'https://github.com/pranav-khade-tech/Node-Deployement-Using-Jenkin.git'
         BRANCH         = 'master'
         REMOTE_USER    = 'ubuntu'
